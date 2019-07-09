@@ -1,0 +1,31 @@
+S,256.001,1952,4,BiO,STeEl,-252.52
+S,197.542,1998,8,baTTeRY,5.67,10 mark 8 torpedoes
+S,171.025,1993,12,diesel,alloy,-376.16
+S,111.666,1998,2,BATTERY,steel,-23.0
+S,256.001,1952,4,BiO,STeEl,-252.52
+S,197.542,1998,8,baTTeRY,5.67,10 mark 8 torpedoes
+S,171.025,1993,12,diesel,alloy,-376.16
+S,111.666,1998,2,BATTERY,steel,-23.0
+S,282.678,2012,2,BATTERY,12.36,phaser cannons
+S,256.001,1952,4,BiO,STeEl,-252.52
+S,197.542,1998,8,baTTeRY,5.67,10 mark 8 torpedoes
+S,282.678,2012,16,bio,12.36,phaser cannons and 15 homing missiles. 
+S,171.025,1993,12,diesel,alloy,-376.16
+S,111.666,1998,2,BATTERY,steel,-23.0
+S,256.001,1952,4,BiO,STeEl,-252.52
+S,197.542,1998,8,baTTeRY,5.67,10 mark 8 torpedoes
+S,282.678,2012,16,bio,12.36,phaser cannons and 15 homing missiles. 
+S,171.025,1993,12,diesel,alloy,-376.16
+S,111.666,1998,2,BATTERY,steel,-23.0
+S,300.999,1950,2,BATTERY,Steel,-23.4
+S,256.001,1952,4,BiO,STeEl,-252.52
+S,197.542,1998,8,baTTeRY,5.67,10 mark 8 torpedoes
+S,282.678,2012,16,bio,12.36,phaser cannons and 15 homing missiles. 
+S,171.025,1993,12,diesel,alloy,-376.16
+S,111.666,1998,2,BATTERY,steel,-23.0
+S,300.999,1950,2,BATTERY,Steel,-23.4
+S,256.001,1952,4,BiO,STeEl,-252.52
+S,197.542,1998,8,baTTeRY,5.67,10 mark 8 torpedoes
+S,282.678,2012,16,bio,12.36,phaser cannons and 15 homing missiles. 
+S,171.025,1993,12,diesel,alloy,-376.16
+
