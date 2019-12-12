@@ -4,11 +4,15 @@ Created the classes and algorithms necessary to manage two types of ships:
     - Submarines
     - Fighter jets
 
-## File Format
-Submarines:
-    S,<serial number>,<commision year>,<cylinders>,<fuel>,<hull>,<max depth>
-Fighter jets:
-    F,<serial number>,<commision year>,<cylinders>,<fuel>,<wingspan>,<ordnance>
+## Usage:
+
+`javac ShipManger.java && java ShipManager`
+
+## File Format:
+* Submarines:
+    * `S,<serial number>,<commision year>,<cylinders>,<fuel>,<hull>,<max depth>`
+* Fighter jets:
+    * `F,<serial number>,<commision year>,<cylinders>,<fuel>,<wingspan>,<ordnance>`
 
 **Example input file: test.txt**
 
